@@ -1,0 +1,31 @@
+{
+  "name": "lunchbot_api",
+  "version": "1.0.0",
+  "description": "RESTful API for lunchbot app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dugxdug/lunchbot-api.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "luncbot"
+  ],
+  "author": "Douglas Coble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dugxdug/lunchbot-api/issues"
+  },
+  "homepage": "https://github.com/dugxdug/lunchbot-api#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
