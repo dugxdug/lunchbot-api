@@ -4,4 +4,4 @@ var express = require('express'),
 
 app.listen(port);
 
-console.log('lunchboit API server started on: ' + port);
+console.log('lunchbot API server started on: ' + port);
